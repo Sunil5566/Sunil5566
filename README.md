@@ -1,4 +1,10 @@
-## Hi there 👋
+## Hi there 👋 <br>
+- 🙋‍♂️ I'm Sunil Bhattarai, <br>
+- 🌱 I'm currently learning Javascript, ReactJs. <br>
+- 📫 How to reach me: bhattaraisunil591@gmail.com <br>
+- 💬 I'm proficient in HTML, CSS, Bootstrap, Javasript. <br>
+- ⚡ Fun Fact: I'm a hichado. <br>
+
 
 <!--
 **Sunil5566/Sunil5566** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
