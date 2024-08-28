@@ -3,7 +3,6 @@
 - 🌱 I'm currently learning Javascript, ReactJs. <br>
 - 📫 How to reach me: bhattaraisunil591@gmail.com <br>
 - 💬 I'm proficient in HTML, CSS, Bootstrap, Javasript. <br>
-- ⚡ Fun Fact: I'm a hichado. <br>
 
 
 <!--
