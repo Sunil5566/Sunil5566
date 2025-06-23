@@ -1,6 +1,6 @@
 ## Hi there 👋 <br>
 - 🙋‍♂️ I'm Sunil Bhattarai, <br>
-- 🌱 I'm currently learning Javascript, ReactJs. <br>
+- 🌱 I'm currently learning Java Programming. <br>
 - 📫 How to reach me: bhattaraisunil591@gmail.com <br>
 - 💬 I'm proficient in HTML, CSS, Bootstrap, Javasript. <br>
 
